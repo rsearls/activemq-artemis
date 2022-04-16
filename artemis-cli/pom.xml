@@ -121,6 +121,7 @@
          <artifactId>commons-configuration2</artifactId>
          <scope>test</scope>
       </dependency>
+      <!-- rls 
       <dependency>
         <groupId>com.sun.winsw</groupId>
         <artifactId>winsw</artifactId>
@@ -129,6 +130,7 @@
         <type>exe</type>
         <scope>test</scope>
       </dependency>
+      -->
       <dependency>
          <groupId>junit</groupId>
          <artifactId>junit</artifactId>
@@ -189,6 +191,7 @@
      </resources>
 
      <plugins>
+     <!-- rls 
        <plugin>
          <groupId>org.apache.maven.plugins</groupId>
          <artifactId>maven-dependency-plugin</artifactId>
@@ -216,6 +219,7 @@
            </execution>
          </executions>
        </plugin>
+       -->
      </plugins>
    </build>
 

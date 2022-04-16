@@ -158,7 +158,7 @@
       <paho.client.mqtt.version>1.2.5</paho.client.mqtt.version>
       <postgresql.version>42.3.3</postgresql.version>
       <!-- for JakrtaEE -->
-      <version.batavia>1.0.10.Final</version.batavia>
+      <version.batavia>1.0.12.Final</version.batavia>
 
       <!-- used on tests -->
       <groovy.version>4.0.0</groovy.version>
